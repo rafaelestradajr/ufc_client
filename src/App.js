@@ -1,4 +1,4 @@
-
+import {Button} from 'antd';
 
 function App() {
   return (
@@ -6,6 +6,9 @@ function App() {
       <h1>
         UFC EXAM
       </h1>
+      <Button
+      type='primary'
+      >Primary Button</Button>
 
 
     </div>
